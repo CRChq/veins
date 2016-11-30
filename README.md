@@ -1,2 +1,2 @@
 # Relay
-The repository our team uses for organizing resources on the Relay projects for multiple referral networks.
+The repository our team uses for organizing resources on Relay projects for various referral networks.
