@@ -1,2 +1,2 @@
-# veins
-Helps our team organize resources for the Veins project.
+# Relay
+The repository our team uses for organizing resources on the Relay projects for multiple referral networks.
